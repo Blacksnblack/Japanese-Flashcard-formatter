@@ -1,0 +1,60 @@
+多い-(Ooi)
+ “Many”
+
+たくさん-(Takusan)
+ “Lots of”
+
+少し-(Sukoshi)
+ “Few”
+
+遠い-(Tooi)
+ “Far”
+
+近い-(Chikai)
+ “Near”
+
+小さい-(Chiisai)
+ “Small”
+
+大きい-(Ookii)
+ “Big”
+
+良い-(Yoi)
+ “Good”
+
+悪い-(Warui)
+ “Bad”
+
+きれいな-(Kirei
+na)
+
+醜い-(Minikui)
+ “Ugly”
+
+難しい-(Muzukashii)
+ “Difficult”
+
+簡単な-(Kantan
+na)
+
+うまい-(Umai)
+ “Nice”
+
+美味しい-(Oishii)
+ “Delicious”
+
+まずい-(Mazui)
+ “Disgusting”
+
+大丈夫-(Daijoubu)
+ “All right”
+
+すごい-(Sugoi)
+ “Amazing”
+
+楽しい-(Tanoshii)
+ “Enjoyable” or “Pleasant”
+
+とても-(Totemo)
+ “Very”
+
